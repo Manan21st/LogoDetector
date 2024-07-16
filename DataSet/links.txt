@@ -1,0 +1,2 @@
+Pepsi dataset - https://universe.roboflow.com/detectionanas/pepsi-logo-detection/dataset/1
+CocaCola dataset - https://universe.roboflow.com/hawkeg/cocacola-puhys/dataset/3
